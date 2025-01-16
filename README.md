@@ -1,5 +1,11 @@
 # Conversor de Moedas
 
+<p align="center">
+  <img src="https://github.com/a-mais/ConversorDeMoedas/blob/main/Badge-Conversor.png" alt="Badge ConversorDeMoedas" width="400">
+</p>
+
+![Badge Status: FINALIZADO](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=red&style=for-the-badge)
+
 Um aplicativo que converte valores entre diferentes moedas, desenvolvido em **Java** como parte de um desafio proposto pela ONE Alura
 
 ## Índice
